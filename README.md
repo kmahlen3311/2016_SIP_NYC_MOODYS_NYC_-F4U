@@ -3,3 +3,10 @@ It is a recipe website for finding recipes, getting recipe ideas, in a visually 
 Come check it out !
 
 Kyara, Kayla, Kyra 
+
+
+LICENSE: 
+
+MIT License 
+
+(c) <2016> <Kyara, Kayla, Kyra> 
